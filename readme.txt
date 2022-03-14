@@ -32,6 +32,3 @@ care le adaug in liste. Apoi inchid ExecutorService-ul pentru acest pas, si anum
 	La final, deoarece trebuie sa scriu informatii in fisierul de output dupa ranguri in ordine
 descrescatoare, sortez finalFileNames, rangList, maxList si noMaxList in functie de elementele din
 rangList. Apoi scriu datele finale in cadrul fisierului de iesire mentionat in linia de comanda.
-
-	Singura problema este ca nu imi dau seama de ce nu primesc tot punctajul pentru testul 0, in
-conditiile in care celelalte teste ofera punctajul corespunzator.
